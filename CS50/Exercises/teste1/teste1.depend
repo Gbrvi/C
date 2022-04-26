@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646832679 source:c:\users\acer\onedrive\documentos\c\cs50\teste1\main.c
+	<stdio.h>
+	<stdlib.h>
+

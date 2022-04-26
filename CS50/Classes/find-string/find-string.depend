@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650931856 source:c:\users\acer\onedrive\documentos\meusprojetos\c\cs50\classes\find-string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

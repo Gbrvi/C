@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650931471 source:c:\users\acer\onedrive\documentos\meusprojetos\c\cs50\exercises\cash\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
